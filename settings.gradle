@@ -1,0 +1,3 @@
+rootProject.name='Sandook'
+include ':app'
+include ':app'
